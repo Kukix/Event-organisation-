@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{456C7F8E-40BB-490C-B3E4-20C164A951C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Shpping_Order</RootNamespace>
+    <AssemblyName>Shpping Order</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.0.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\MySQL\MySQL Connector Net 5.0.9\Binaries\.NET 2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Phidget21.NET">
+      <HintPath>..\..\..\..\C#\BLOCK 4\PCS4 LHF\week4\MyFirstAppWithRFID\Week 4 MyFirstAppWithRFID\MyFirstAppWithRFID\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Phidget21.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs" />
+    <Compile Include="Admin_Control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Control.Designer.cs">
+      <DependentUpon>Admin_Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Camp.cs" />
+    <Compile Include="Camp_site.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Camp_site.Designer.cs">
+      <DependentUpon>Camp_site.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checking_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checking_Information.Designer.cs">
+      <DependentUpon>Checking_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connection.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="DBconnectCamp.cs" />
+    <Compile Include="DBconnectCutomer.cs" />
+    <Compile Include="DBconnectionAdmin.cs" />
+    <Compile Include="DBconnectionCustomer.cs" />
+    <Compile Include="DBconnectionEvent.cs" />
+    <Compile Include="DBconnectionGernalAdmin.cs" />
+    <Compile Include="DBconnectionItems.cs" />
+    <Compile Include="DBconnectionOrder.cs" />
+    <Compile Include="DBconnectionOrderDetails.cs" />
+    <Compile Include="DBconnectionRental.cs" />
+    <Compile Include="DBconnectionSpecificAdmin.cs" />
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="Entrance_Application.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entrance_Application.Designer.cs">
+      <DependentUpon>Entrance_Application.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Event.cs" />
+    <Compile Include="Event_Initializer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Event_Initializer.Designer.cs">
+      <DependentUpon>Event_Initializer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Event_Status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Event_Status.Designer.cs">
+      <DependentUpon>Event_Status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions.cs" />
+    <Compile Include="General_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General_admin.Designer.cs">
+      <DependentUpon>General_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Normal_Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Normal_Shop.Designer.cs">
+      <DependentUpon>Normal_Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="OrderDetails.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rental.cs" />
+    <Compile Include="Return_Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Return_Products.Designer.cs">
+      <DependentUpon>Return_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shop.cs" />
+    <Compile Include="ShopIniRental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShopIniRental.Designer.cs">
+      <DependentUpon>ShopIniRental.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shop_Initializer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shop_Initializer.Designer.cs">
+      <DependentUpon>Shop_Initializer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Specific Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Specific Admin.Designer.cs">
+      <DependentUpon>Specific Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unit.cs" />
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="Admin_Control.resx">
+      <DependentUpon>Admin_Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Camp_site.resx">
+      <DependentUpon>Camp_site.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checking_Information.resx">
+      <DependentUpon>Checking_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entrance_Application.resx">
+      <DependentUpon>Entrance_Application.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Event_Initializer.resx">
+      <DependentUpon>Event_Initializer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Event_Status.resx">
+      <DependentUpon>Event_Status.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General_admin.resx">
+      <DependentUpon>General_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Normal_Shop.resx">
+      <DependentUpon>Normal_Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Return_Products.resx">
+      <DependentUpon>Return_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShopIniRental.resx">
+      <DependentUpon>ShopIniRental.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shop_Initializer.resx">
+      <DependentUpon>Shop_Initializer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Specific Admin.resx">
+      <DependentUpon>Specific Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

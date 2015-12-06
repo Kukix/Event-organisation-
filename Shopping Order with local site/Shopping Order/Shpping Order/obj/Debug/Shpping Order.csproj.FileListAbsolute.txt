@@ -1,0 +1,58 @@
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\bin\Debug\Shpping Order.exe.config
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\bin\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\bin\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\obj\Debug\Shpping_Order.Form1.resources
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\obj\Debug\Shpping_Order.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\obj\Debug\Shpping Order.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\obj\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\obj\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications\Shpping Order\Shpping Order\obj\Debug\Shpping Order.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\bin\Debug\Shpping Order.exe.config
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\obj\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\obj\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\bin\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\bin\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\obj\Debug\Shpping Order.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\obj\Debug\Shpping_Order.Form1.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\obj\Debug\Shpping_Order.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-04-2014\Shpping Order\Shpping Order\obj\Debug\Shpping Order.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe.config
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\obj\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\obj\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\bin\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Form1.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\bin\Debug\MySql.Data.dll
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order\Shpping Order\bin\Debug\Phidget21.NET.dll
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe.config
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\obj\Debug\Shpping Order.exe
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\obj\Debug\Shpping Order.pdb
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\bin\Debug\Shpping Order.pdb
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Form1.resources
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe.config
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\obj\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\obj\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\bin\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Form1.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with athena server\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe.config
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\bin\Debug\Shpping Order.pdb
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csprojResolveAssemblyReference.cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Event_Initializer.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Normal_Shop.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Rental_Shop.resources

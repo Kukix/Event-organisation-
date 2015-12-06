@@ -1,0 +1,8 @@
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Checking_Information.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Event_Initializer.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Normal_Shop.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Properties.Resources.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping_Order.Rental_Shop.resources
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\EVENT_INITILIZER.csproj.GenerateResource.Cache
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.pdb

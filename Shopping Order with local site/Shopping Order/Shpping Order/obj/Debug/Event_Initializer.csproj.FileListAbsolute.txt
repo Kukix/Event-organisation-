@@ -1,0 +1,3 @@
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\bin\Debug\Shpping Order.exe.config
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.exe
+E:\Fontys sharepoints and assignments\ProP\Applications New 22-03-2014\Shopping Order Files 14-05-2014\Shopping Order with local site\Shopping Order\Shpping Order\obj\Debug\Shpping Order.pdb

@@ -1,0 +1,2 @@
+server=athena01.fhict.local;Uid=dbi289315;Pwd=ZuD7UVJ5jv;Database=dbi289315;
+server=localhost;User Id=root;password=love2jia7;Database=mydb;

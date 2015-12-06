@@ -1,0 +1,1 @@
+server=localhost;User Id=root;password=love2jia7;Database=mydb

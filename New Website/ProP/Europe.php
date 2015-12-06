@@ -1,0 +1,219 @@
+<html>
+	<head>
+	<link href="./Styles/stylesheet.css" type="text/css" rel="stylesheet"/>
+	<link href="./Styles/footer.css" type="text/css" rel="stylesheet"/>
+	<title>A bite of the world</title>
+	<link rel="icon" href="./Images/Food.png" type="image/x-icon">
+	
+
+	</head>
+	<body>
+<div id="wrap">
+	<div id="header">
+		<div class="container_login">
+			<form name="loginForm">
+				Username:<input type="text" name="username" placeholder="Enter your login ID"><br />
+				Password:<input type="text" name="password" placeholder="Enter your password"><br />
+				<input type="reset" />
+				<input type="submit" value="Login" />
+				or <a href="Registration.php">Register</a>
+			</form>
+		</div>
+		<div class="logo_container">
+			<img src="./Images/logo.png" height="120" width="130">
+		</div>
+		<center>
+		<h1>A bite of the world</h1>
+	</div>
+  <div id="right_container">
+	<div id="menu">
+		<ul>
+			<li><a href='index.php'>Home</a></li>
+			<li><a href='Menu.php'>Menu</a>
+				<ul>
+					<li><a href='Europe.php'>Europe</a></li>
+					<li><a href='Asia.php'>Asia</a></li>
+					<li><a href='NorthAmerica.php'>North America</a></li>
+					<li><a href='SouthAmerica.php'>South America</a></li>
+					<li><a href='Africa.php'>Africa</a></li>
+					<li><a href='Australia.php'>Australia</a></li>
+				</ul>
+			</li>
+			<li><a href='Program.php'>Program</a></li>
+			<li><a href='#'><span>Gallery</a>
+				<ul>
+					<li><a href='Pictures.php'>Pictures</a></li>
+					<li><a href='Videos.php'>Videos</a></li>	
+				</ul>
+			</li>
+			<li><a href='ContactUs.php'>Contact Us</a></li>
+		</ul>
+	</div>
+  </div>
+	<div class="menu_header"><h5>Central European cuisine</h5></div>
+	<img src="./Images/1.jpg" style="float:left;margin:10px 10px 10px;border-radius:7px;" width="300" height="230"> 
+	<h2>
+	<div id="blockleft">
+	<img src="./Images/Countries/Austria.png">Austrian cuisine <br />
+	<img src="./Images/Countries/Croatia.png">Croatian cuisine <br />
+	<img src="./Images/Countries/Czech.png">Czech cuisine<br />
+	<img src="./Images/Countries/Germany.png">German cuisine <br />
+	<img src="./Images/Countries/Hungary.png">Hungarian cuisine <br />
+	<img src="./Images/Countries/Poland.png">Polish cuisine <br />
+	<img src="./Images/Countries/Slovakia.png">Slovak cuisine <br />
+	<img src="./Images/Countries/Slovenia.png">Slovenian cuisine <br />
+	
+	</div>
+	Central European cuisine is a generic term regarding the cuisine of Central Europe.
+
+The cuisine of a country is strongly influenced by regional climates. For example, 
+German cuisine, Polish cuisine, Austrian and Czech cuisine show many similarities,
+ yet differ from the highlander cuisines in these countries.</h2>
+ <br /> <br /><br />
+
+ <div class="menu_header"><h5>Eastern European cuisine</h5></div>
+	<img src="./Images/1.jpg" style="float:right;margin:10px 10px 10px;border-radius:7px;" width="300" height="230"> 
+	<h2>
+	<div id="blockleft">
+	<img src="./Images/Countries/Armenia.png">Armenian cuisine <br />
+	<img src="./Images/Countries/Azerbaijan.png">Azerbaijani cuisine <br />
+	<img src="./Images/Countries/Belarus.png">Belarusian cuisine<br />
+	<img src="./Images/Countries/Georgia.png">Georgian cuisine <br />
+	<img src="./Images/Countries/Kazak.png">Kazakh cuisine <br />
+	<img src="./Images/Countries/Moldova.png">Moldovan cuisine <br />
+	<img src="./Images/Countries/Romania.png">Romanian cuisine <br />
+	<img src="./Images/Countries/Russia.png">Russian cuisine <br />
+	<img src="./Images/Countries/Ukraine.png">Ukrainian cuisine <br />
+	
+	</div>
+	Eastern European cuisine is a generic term for the cuisine of Eastern Europe,
+	including the Caucasus, but excluding most Balkan countries.
+
+The cuisine of the region is strongly influenced by its climate and still
+ varies, depending on a country. For example, Russian, Belarusian cuisine and 
+ Ukrainian cuisine show many similarities, yet differ considerably from Caucasian cuisine.</h2>
+	<br />
+	
+	<div class="menu_header"><h5>Northen European cuisine</h5></div>
+	<img src="./Images/1.jpg" style="float:left;margin:10px 10px 10px;border-radius:7px;" width="300" height="230"> 
+	<h2>
+	<div id="blockleft">
+	<img src="./Images/Countries/Britain.png">British cuisine <br />
+	<img src="./Images/Countries/Denmark.png">Danish cuisine <br />
+	<img src="./Images/Countries/Estonia.png">Estonian cuisine<br />
+	<img src="./Images/Countries/Latvia.png">Latvian cuisine <br />
+	<img src="./Images/Countries/Lithuania.png">Luthuanian cuisine <br />
+	<img src="./Images/Countries/Finland.png">Finnish cuisine <br />
+	<img src="./Images/Countries/Norway.png">Norwegian cuisine <br />
+	<img src="./Images/Countries/Sweaden.png">Swedish cuisine <br />
+	
+	</div>
+	Northern Europe, including Scandinavia, Ireland and the United Kingdom, has 
+	a mouthwatering supply of food and beverages. Fish and chips, Swedish meatballs 
+	and shepherd’s pie are just a sampling of the regional offerings, which are usually 
+	prepared on the hearty side to warm people up from the cold climate. Because of the 
+	surrounding bodies of water, fish is essential to most Northern European cuisines.</h2>
+
+
+<br /> <br /> <br /> <br /><br />
+	
+	<div class="menu_header"><h5>Southern European cuisine</h5></div>
+	<img src="./Images/1.jpg" style="float:right;margin:10px 10px 10px;border-radius:7px;" width="300" height="230"> 
+	<h2>
+	<div id="blockleft">
+	<img src="./Images/Countries/Albania.png">Albanian cuisine <br />
+	<img src="./Images/Countries/Bulgaria.png">Bulgarian cuisine <br />
+	<img src="./Images/Countries/Greece.png">Greek cuisine<br />
+	<img src="./Images/Countries/Italy.png">Italian cuisine <br />
+	<img src="./Images/Countries/Macedonia.png">Macedonian cuisine <br />
+	<img src="./Images/Countries/Portugal.png">Portuguese cuisine <br />
+	<img src="./Images/Countries/Serbian.png">Serbian cuisine <br />
+	<img src="./Images/Countries/Spain.png">Spanish cuisine <br />
+	<img src="./Images/Countries/Turkey.png">Turkish cuisine <br />
+	
+	</div>
+	Mediterranean cuisine is the food from the cultures adjacent to the Mediterranean Sea.
+	Although this region spans a wide variety of cultures, the historical connections of the 
+	region, as well as the impact of the Mediterranean Sea on the region's climate and 
+	economy, have led to there being many common elements in the foods.</h2>
+
+
+
+<br /><br /><br />
+	
+	<div class="menu_header"><h5>Western European cuisine</h5></div>
+	<img src="./Images/1.jpg" style="float:left;margin:10px 10px 10px;border-radius:7px;" width="300" height="230"> 
+	<h2>
+	<div id="blockleft">
+	<img src="./Images/Countries/Belgium.png">Belgian cuisine <br />
+	<img src="./Images/Countries/Netherlands.png">Dutch cuisine <br />
+	<img src="./Images/Countries/France.png">French cuisine<br />
+	<img src="./Images/Countries/Luxemburg.png">Luxembourgian cuisine <br />
+	<img src="./Images/Countries/Swiss.png">Swiss cuisine <br />
+	
+	</div>
+	The cuisine of Western Europe is the food of countries such as Germany, Switzerland, 
+	Austria, Belgium, the Netherlands, and France. The cuisine of the region shares some
+	similarities and many differences as well. Many German recipes reflect the long 
+	standing German tradition of preserving foods. Smoking, curing, pickling and salting 
+	of foods is common in Germany and can be found in well-known foods such as sauerkraut,
+	pickled herring, and sauerbraten. German cuisine has always featured rich and hearty
+	meat based recipes; with pork, beef, and wild game being very popular. The food of
+	Austria and the German part of Switzerland share many similarities with that of Germany.
+	The French part of Switzerland owes much of its food traditions to the classic food 
+	of France. Few countries in the world are more respected for their cuisine than France.
+	French food places a heavy emphasis on meat dishes and goes to great lengths to create
+	sauces that enhance the flavor of any type of meat. France is also known for its 
+	legendary wines, which are enjoyed all over the world.</h2>
+
+
+
+	
+</div>
+<div id="footer">
+	<ul id="footer_menu">
+		<li><a href="index.html"><img src="./Images/home2.png" width="30" height="30" /> </a></li>
+		<li><a href="#">Account</a>
+			<div class="one_column_layout">
+				<div class="col_1">
+					<a class="headerLinks">Stream</a>
+					<a class="headerLinks">Messages</a>
+					<a class="listLinks">Inbox(5)</a>
+					<a class="listLinks">Send</a>
+					<a class="listLinks">Trash</a>
+					<a class="listLinks">Compose</a>
+				</div>
+			</div>
+		</li>
+		<li><a href="#">Profile</a>
+			<div class="two_column_layout">
+				<div class="col_1">
+					<p>Something text text Nothing something about account</p>
+				</div>
+				<div class="col_1">
+					<p>Something else about account look here mon</p>
+				</div>
+				<div class="clear">
+				</div>
+				<div class="col_2">
+					<p>
+						<img src="./Images/home2.png" class="img_left whiteBorder" />
+						<a href="#" style="display:inline;font-weight:bold;color:white;">Kalina Petrova</a>
+						<a href="#">Read more...</a>
+					</p>
+				</div>
+			</div>
+		</li>
+		<li class="right"><a href="#">Log Out</a>
+		</li>
+	</ul>
+	<ul id="notifications">
+	<li><a href="#" class="notificationIcons"><img src="./Images/facebook.png" width="36" height="36"></a></li>
+	<li><a href="#" class="notificationIcons"><img src="./Images/tweeter.png" width="36" height="36"></a></li>
+	<li><a href="#" class="notificationIcons"><img src="./Images/youtube.png" width="36" height="36"></a></li>
+	<li><a href="#" class="notificationIcons"><img src="./Images/google.png" width="36" height="36"></a></li>
+	</ul>
+</div>
+</body>
+
+</html>

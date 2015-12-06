@@ -1,0 +1,1 @@
+If you get an error regarding the phidgets, please replace the phidgets inside the application/bin folder with these ones.
